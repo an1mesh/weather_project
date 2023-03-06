@@ -1,0 +1,16 @@
+com.example.weather_application_project.app-jetified-window-java-1.0.0-beta04-0 /home/animesh/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.weather_application_project.app-jetified-play-services-base-18.1.0-1 /home/animesh/.gradle/caches/transforms-3/24bd5ae211488322aa8c48f41a7bee4d/transformed/jetified-play-services-base-18.1.0/res
+com.example.weather_application_project.app-core-1.9.0-2 /home/animesh/.gradle/caches/transforms-3/5f80b20db3afa86c72a9766b008d752d/transformed/core-1.9.0/res
+com.example.weather_application_project.app-lifecycle-runtime-2.3.1-3 /home/animesh/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/res
+com.example.weather_application_project.app-jetified-window-1.0.0-beta04-4 /home/animesh/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.weather_application_project.app-jetified-annotation-experimental-1.3.0-5 /home/animesh/.gradle/caches/transforms-3/ec10578641139d45a328c567f48881a1/transformed/jetified-annotation-experimental-1.3.0/res
+com.example.weather_application_project.app-jetified-play-services-basement-18.1.0-6 /home/animesh/.gradle/caches/transforms-3/f46b9773282b7a3d38863a46e0e0b5d1/transformed/jetified-play-services-basement-18.1.0/res
+com.example.weather_application_project.app-debug-7 /home/animesh/StudioProjects/weather_application_project/android/app/src/debug/res
+com.example.weather_application_project.app-main-8 /home/animesh/StudioProjects/weather_application_project/android/app/src/main/res
+com.example.weather_application_project.app-pngs-9 /home/animesh/StudioProjects/weather_application_project/build/app/generated/res/pngs/debug
+com.example.weather_application_project.app-resValues-10 /home/animesh/StudioProjects/weather_application_project/build/app/generated/res/resValues/debug
+com.example.weather_application_project.app-rs-11 /home/animesh/StudioProjects/weather_application_project/build/app/generated/res/rs/debug
+com.example.weather_application_project.app-mergeDebugResources-12 /home/animesh/StudioProjects/weather_application_project/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.weather_application_project.app-mergeDebugResources-13 /home/animesh/StudioProjects/weather_application_project/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.weather_application_project.app-merged_res-14 /home/animesh/StudioProjects/weather_application_project/build/app/intermediates/merged_res/debug
+com.example.weather_application_project.app-packaged_res-15 /home/animesh/StudioProjects/weather_application_project/build/geolocator_android/intermediates/packaged_res/debug
